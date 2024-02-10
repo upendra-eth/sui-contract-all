@@ -1,8 +1,3 @@
-
-I apologize for the confusion. I understand now. Here's the raw content for the README file:
-
-markdown
-Copy code
 # SUI.js SDK Example: Calling SUI Blockchain Smart Contract Function
 
 ## Prerequisites
@@ -51,9 +46,6 @@ View the transaction status and result.
 
 Ensure you have the necessary dependencies installed and configured, such as Node.js and a valid SUI testnet environment.
 
-Feel free to customize the code for your specific smart contract and use case.
-
-Please replace `"your-script-name.js"` with the actual name of your JavaScript file if it's different. Customize the content further based on your project details or specific requirements.
 
 
 
